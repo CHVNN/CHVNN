@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @CHVNN
+- 👋 Hi, I’m Iwuoha Austin, but my friends call me Chan
 - 👀 I’m interested in becoming a developer (full stack) looking at developing apps and software
 - 🌱 I’m currently learning Python programming 
 - 💞️ I’m looking to collaborate on ...
